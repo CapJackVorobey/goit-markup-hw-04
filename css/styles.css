@@ -89,7 +89,6 @@ img {
   align-items: center;
   gap: 40px;
   margin-right: 0;
-  position: relative;
 }
 
 .top_navigation_item_stirring,
@@ -101,6 +100,7 @@ img {
   color: #2e2f42;
   padding: 24px 0;
   display: block;
+  position: relative;
 }
 
 .top_navigation_item_stirring {
