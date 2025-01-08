@@ -226,11 +226,6 @@ address {
   margin-bottom: 8px;
 }
 
-.piece_two_icon svg {
-  width: 64px;
-  height: 64px;
-}
-
 .visually-hidden {
   position: absolute;
   width: 1px;
