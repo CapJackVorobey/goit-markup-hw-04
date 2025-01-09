@@ -300,8 +300,9 @@ address {
 }
 
 .piece_three_group .social-links .social-link .social-link-a svg {
-  width: 16px;
-  height: 16px;
+  width: 16;
+  height: 16;
+  fill: #f4f4fd;
 }
 
 .piece_three_info {
