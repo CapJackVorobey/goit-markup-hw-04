@@ -425,10 +425,6 @@ svg {
   align-items: baseline;
 }
 
-.container_bottom_one {
-  margin-right: 120px;
-}
-
 .bottom_logo {
   display: inline-block;
   font-family: "Raleway", sans-serif;
@@ -451,6 +447,10 @@ svg {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
+}
+
+.bottom_container_one {
+  margin-right: 120px;
 }
 
 .bottom_container_two_p {
