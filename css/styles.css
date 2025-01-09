@@ -473,7 +473,7 @@ svg {
   margin-bottom: 16px;
 }
 
-.social-link-two:hover,
-.social-link-two:active {
+.social-links-two .social-link:hover,
+.social-links-two .social-link:active {
   background-color: #31d0aa;
 }
