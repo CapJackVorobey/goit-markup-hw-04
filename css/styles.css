@@ -474,6 +474,6 @@ svg {
 }
 
 .social-links-two .social-link .social-link-a:hover,
-.social-links-two .social-link .social-link-a:active {
+.social-links-two .social-link .social-link-a:focus {
   background-color: #31d0aa;
 }
