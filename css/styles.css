@@ -451,6 +451,11 @@ svg {
 
 .bottom_container_one {
   margin-right: 120px;
+  gap: 16px;
+}
+
+.bottom_container_two {
+  gap: 16px;
 }
 
 .bottom_container_two_p {
