@@ -307,6 +307,11 @@ address {
   background-color: #404bbf;
 }
 
+.social-link-a-bottom:hover,
+.social-link-a-bottom:focus {
+  background-color: #31d0aa;
+}
+
 svg {
   fill: #f4f4fd;
 }
@@ -455,6 +460,11 @@ svg {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
+}
+
+.bottom_container {
+  margin-left: 156px;
+  gap: 16px;
 }
 
 .bottom_container_one {
